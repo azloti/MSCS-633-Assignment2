@@ -1,0 +1,4 @@
+django>=4.2,<5
+chatterbot>=1.0.8
+chatterbot-corpus
+pyyaml
